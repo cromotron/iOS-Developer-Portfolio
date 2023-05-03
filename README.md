@@ -54,7 +54,7 @@ The [WeightWatchers®](https://apps.apple.com/us/app/ww-weightwatchers/id3313089
 ##### 🔨Technologies: Objective-C, MVC
 ##### 🚀Platform: 📱iOS, iPhone
 <p align="center">
-<a href="https://apps.apple.com/us/app/ww-weightwatchers/id331308914" target="_blank"><img src="images/wu/wu.png" width="700" title="Wheels Up"></a>
+<a href="https://apps.apple.com/us/app/ww-weightwatchers/id331308914" target="_blank"><img src="images/ww/ww.png" width="700" title="Wheels Up"></a>
 </p>
 
 ## Kum & Go
@@ -63,7 +63,7 @@ The [Kum & Go](https://www.kumandgo.com/rewards) app is your one-stop-shop for t
 ##### 🔨Technologies: Objective-C, MVC
 ##### 🚀Platform: 📱iOS, iPhone
 <p align="center">
-<a href="https://apps.apple.com/app/apple-store/id1065661067" target="_blank"><img src="images/wu/wu.png" width="700" title="Kum & Go></a>
+<a href="https://apps.apple.com/app/apple-store/id1065661067" target="_blank"><img src="images/kg/kg.jpg" width="700" title="Kum & Go></a>
 </p>
 
 
