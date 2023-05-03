@@ -25,7 +25,7 @@ The [Navify Pass](https://navify.roche.com/products/navify-pass/) app is a simpl
 ##### 🔨Technologies: Swift, UIKit, SwiftUI, Unit and UI Test, Push Notifications, REST API
 ##### 🚀Platform: 📱iOS, iPhone
 <p align="center">
-<a href="https://apps.apple.com/au/app/navify-pass/id1543101701" target="_blank"><img src="images/nav/nav2.jpeg" width="700" title="Navify Pass"></a>
+<a href="https://apps.apple.com/au/app/navify-pass/id1543101701" target="_blank"><img src="images/nav/nav3.jpeg" width="700" title="Navify Pass"></a>
 </p>
 
 ## Navify Pass Professional - Roche
@@ -34,7 +34,7 @@ The [Navify Pass Professional](https://navify.roche.com/products/navify-pass/) e
 ##### 🔨Technologies: Swift, UIKit, SwiftUI, Unit and UI Test, Push Notifications, REST API
 ##### 🚀Platform: 📱iOS, iPhone
 <p align="center">
-<a href="https://apps.apple.com/au/app/navify-pass-professional/id1543101823" target="_blank"><img src="images/nav/nav3.jpeg" width="700" title="Navify Pass Professional"></a>
+<a href="https://apps.apple.com/au/app/navify-pass-professional/id1543101823" target="_blank"><img src="images/nav/nav2.jpeg" width="700" title="Navify Pass Professional"></a>
 </p>
 
 ## Shadow Drive Connect - Vonnen
@@ -107,7 +107,7 @@ The [Boston Globe](https://pages.bostonglobe.com/mobileapps/the-boston-globe-app
 ##### 🔨Technologies: Objective-C, MVC
 ##### 🚀Platform: 📱iOS, iPhone
 <p align="center">
-<a href="https://apps.apple.com/us/app/the-boston-globe/id632761100" target="_blank"><img src="images/bg/bg.jpg" width="700" title="Boston Globe"></a>
+<a href="https://apps.apple.com/us/app/the-boston-globe/id632761100" target="_blank"><img src="images/bg/bg.png" width="700" title="Boston Globe"></a>
 </p>
 
 
