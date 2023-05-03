@@ -5,10 +5,19 @@ William Wallace - iOS-Developer-Portfolio
 The [MYCITE® App](https://www.abilifymycite.com) is part of a digital medicine system that helps you and your healthcare team stay on top of how your treatment is going.
 The 3 components — a smart pill with sensor, a non-medicated MYCITE® Patch, and the app—receive and display your daily health data. Data displayed on the app include when you take your pill, your activity level, and time spent resting. It also allows you to select your mood, how well you rested, and the reason, if you didn’t take your pill.
 
-##### 🔨Technologies: Swift, MVC, Unit Tests, CI, BLE, Push Notifications, REST API.
+##### 🔨Technologies: Swift, Unit Tests, CI, BLE, Push Notifications, REST API.
 ##### 🚀Platform: 📱iOS, iPhone.
 <p align="center">
 <a href="https://apps.apple.com/us/app/mycite/id1539735389" target="_blank"><img src="images/mc/mc.png" width="700" title="MyCite"></a>
+</p>
+
+## Floodlight MS
+The [Floodlight MS](https://floodlightms-us.com/) app A smartphone app backed by science and created for people living with MS
+
+##### 🔨Technologies: Swift, UIKit, SwiftUI, Unit and UI Test, Push Notifications, REST API
+##### 🚀Platform: 📱iOS, iPhone
+<p align="center">
+<a href="https://apps.apple.com/au/app/floodlight-ms/id1528260411" target="_blank"><img src="images/fl/fl.png" width="700" title="Floodlight MS"></a>
 </p>
 
 ## Shadow Drive Connect - Vonnen
@@ -63,7 +72,16 @@ The [Kum & Go](https://www.kumandgo.com/rewards) app is your one-stop-shop for t
 ##### 🔨Technologies: Objective-C, MVC
 ##### 🚀Platform: 📱iOS, iPhone
 <p align="center">
-<a href="https://apps.apple.com/app/apple-store/id1065661067" target="_blank"><img src="images/kg/kg.jpg" width="700" title="Kum & Go></a>
+<a href="https://apps.apple.com/app/apple-store/id1065661067" target="_blank"><img src="images/kg/kg.jpg" width="700" title="Kum & Go"></a>
+</p>
+
+## Boston Globe
+The [Boston Globe](https://pages.bostonglobe.com/mobileapps/the-boston-globe-app/) app is the best way to experience our journalism on your mobile device.
+
+##### 🔨Technologies: Objective-C, MVC
+##### 🚀Platform: 📱iOS, iPhone
+<p align="center">
+<a href="https://apps.apple.com/us/app/the-boston-globe/id632761100" target="_blank"><img src="images/kg/kg.jpg" width="700" title="Boston Globe"></a>
 </p>
 
 
