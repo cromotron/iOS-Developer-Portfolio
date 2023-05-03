@@ -8,7 +8,7 @@ The 3 components — a smart pill with sensor, a non-medicated MYCITE® Patch, a
 ##### 🔨Technologies: Swift, MVC, Unit Tests, CI, BLE, Push Notifications, REST API.
 ##### 🚀Platform: 📱iOS, iPhone.
 <p align="center">
-<a href="https://apps.apple.com/us/app/mycite/id1539735389" target="_blank"><img src="images/mc/mc.png" width="900" title="MyCite"></a>
+<a href="https://apps.apple.com/us/app/mycite/id1539735389" target="_blank"><img src="images/mc/mc.png" width="800" title="MyCite"></a>
 </p>
 
 ## Shadow Drive Connect
@@ -17,7 +17,7 @@ The 3 components — a smart pill with sensor, a non-medicated MYCITE® Patch, a
 ##### 🔨Technologies: Swift, MVC, Unit Tests, BLE 
 ##### 🚀Platform: 📱iOS, iPhone.
 <p align="center">
-<a href="https://apps.apple.com/us/app/shadow-drive-connect/id1508458541" target="_blank"><img src="images/sd/vonnen.png" width="300" title="Shadow Drive"></a>
+<a href="https://apps.apple.com/us/app/shadow-drive-connect/id1508458541" target="_blank"><img src="images/sd/vonnen.png" width="200" title="Shadow Drive"></a>
 </p>
 
 ## Toby's T1D Tale
@@ -35,7 +35,7 @@ Insulet's [Toby's T1D Tale](https://investors.insulet.com/news/news-details/2016
 ##### 🔨Technologies: Objective-C, MVC
 ##### 🚀Platform: 📱iOS, iPhone
 <p align="center">
-<a href="https://apps.apple.com/ca/app/medavie-blue-cross-mobile/id674013263" target="_blank"><img src="images/med/medavie.jpeg" width="900" title="Medavie"></a>
+<a href="https://apps.apple.com/ca/app/medavie-blue-cross-mobile/id674013263" target="_blank"><img src="images/med/medavie.jpeg" width="800" title="Medavie"></a>
 </p>
 
 
