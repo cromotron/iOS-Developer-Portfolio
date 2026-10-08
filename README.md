@@ -33,6 +33,15 @@ Senior native mobile engineer with embedded firmware roots. Specializing in high
 <a href="projects/floodlight-roche.md"><img src="images/fl/fl.png" width="500" alt="Floodlight MS"></a>
 </p>
 
+### [Exo Iris — Exo Imaging](projects/exo-iris.md)
+* **What it is:** Healthcare app for the Exo Iris handheld ultrasound system, an FDA 510(k)-cleared device with FDA-cleared AI indicators (e.g., cardiac ejection fraction, lung findings, bladder volume).
+* **My Role:** Integrated the ultrasound device with the iOS app over MFi USB.
+* **Stack:** `MFi USB` `Medical Imaging` `Hardware Integration`
+
+<p align="center">
+<a href="projects/exo-iris.md"><img src="images/exo/exo.png" width="200" alt="Exo Iris"></a>
+</p>
+
 ---
 
 ## Commercial & Consumer Applications
