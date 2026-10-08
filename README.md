@@ -48,6 +48,7 @@ Senior native mobile engineer with embedded firmware roots. Specializing in high
 
 | Product | Client / Domain | Core Focus | Details |
 | :--- | :--- | :--- | :--- |
+| **Vitality Today** | Health & Wellness | Wellness rewards & HealthKit activity sync | [View Project](projects/vitality-today.md) |
 | **Navify Pass & Pro** | Roche | Health credential management & clinical provider entry | [View Project](projects/navify-pass.md) |
 | **Toby's T1D Tale** | Insulet | Pediatric diabetes education & insulin therapy UX | [View Project](projects/tobys-t1d.md) |
 | **Kum & Go** | Retail & Fueling | Contactless fueling, mobile payment, loyalty engine | [View Project](projects/kum-and-go.md) |
